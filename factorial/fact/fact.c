@@ -45,7 +45,6 @@ int main(int argc, char *argv[]) {
     {
         printf("%d no es número primo\n",number);
     }
-    /*Print the result*/
     
     return 0;
 }
